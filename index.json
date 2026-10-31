@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "scenes": [
+    {
+      "id": "aarhus",
+      "name": "Aarhus Ø",
+      "version": 1,
+      "engine": 1,
+      "description": "The harbour skyline seen from a pier on the north shore: Isbjerget, the Lighthouse, cranes, boats and gulls. Windows light up through the evening.",
+      "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.lcscene",
+      "size": 24167,
+      "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
+    },
+    {
+      "id": "coast",
+      "name": "Living Coast",
+      "version": 1,
+      "engine": 1,
+      "description": "Dunes and marram grass above a quiet beach, looking south over the sea towards a line of wind turbines.",
+      "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.lcscene",
+      "size": 15307,
+      "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.jpg"
+    }
+  ]
+}
