@@ -5,5 +5,5 @@ The public scene library for Udsigt, the live wallpaper app for Mac. The app rea
 
 | Scene | |
 |---|---|
-| **Aarhus Ø** — the harbour skyline seen from a pier on the north shore | ![](aarhus.jpg) |
+| **Aarhus Ø** (v2) — the harbour skyline from a pier on the north shore, with boats, kayaks, swimmers, ducks and gulls | ![](aarhus.jpg) |
 | **Living Coast** — dunes and marram grass above a quiet beach | ![](coast.jpg) |

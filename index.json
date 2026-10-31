@@ -4,11 +4,11 @@
     {
       "id": "aarhus",
       "name": "Aarhus Ø",
-      "version": 1,
+      "version": 2,
       "engine": 1,
-      "description": "The harbour skyline seen from a pier on the north shore: Isbjerget, the Lighthouse, cranes, boats and gulls. Windows light up through the evening.",
+      "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, swimmers, ducks and gulls come and go; windows light up through the evening.",
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.lcscene",
-      "size": 24167,
+      "size": 46749,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
     },
     {
