@@ -4,11 +4,11 @@
     {
       "id": "aarhus",
       "name": "Aarhus Ø",
-      "version": 2,
-      "engine": 1,
-      "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, swimmers, ducks and gulls come and go; windows light up through the evening.",
+      "version": 3,
+      "engine": 2,
+      "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, ducks and gulls come and go with the seasons; winter bathers in the morning, windows lighting up through the evening.",
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.lcscene",
-      "size": 46749,
+      "size": 54022,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
     },
     {
@@ -20,6 +20,16 @@
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.lcscene",
       "size": 15307,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.jpg"
+    },
+    {
+      "id": "aarhus",
+      "name": "Aarhus Ø",
+      "version": 2,
+      "engine": 1,
+      "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, swimmers, ducks and gulls come and go; windows light up through the evening.",
+      "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus-e1.lcscene",
+      "size": 46749,
+      "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
     }
   ]
 }
