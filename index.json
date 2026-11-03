@@ -4,22 +4,32 @@
     {
       "id": "aarhus",
       "name": "Aarhus Ø",
-      "version": 3,
-      "engine": 2,
+      "version": 4,
+      "engine": 3,
       "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, ducks and gulls come and go with the seasons; winter bathers in the morning, windows lighting up through the evening.",
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.lcscene",
-      "size": 54022,
+      "size": 54608,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
     },
     {
       "id": "coast",
       "name": "Living Coast",
-      "version": 1,
-      "engine": 1,
+      "version": 2,
+      "engine": 3,
       "description": "Dunes and marram grass above a quiet beach, looking south over the sea towards a line of wind turbines.",
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.lcscene",
-      "size": 15307,
+      "size": 15910,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.jpg"
+    },
+    {
+      "id": "aarhus",
+      "name": "Aarhus Ø",
+      "version": 3,
+      "engine": 2,
+      "description": "The harbour skyline seen from a pier on the north shore. Boats, kayaks, ducks and gulls come and go with the seasons; winter bathers in the morning, windows lighting up through the evening.",
+      "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus-e2.lcscene",
+      "size": 54022,
+      "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
     },
     {
       "id": "aarhus",
@@ -30,6 +40,16 @@
       "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus-e1.lcscene",
       "size": 46749,
       "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/aarhus.jpg"
+    },
+    {
+      "id": "coast",
+      "name": "Living Coast",
+      "version": 1,
+      "engine": 1,
+      "description": "Dunes and marram grass above a quiet beach, looking south over the sea towards a line of wind turbines.",
+      "url": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast-e1.lcscene",
+      "size": 15307,
+      "preview": "https://raw.githubusercontent.com/patmilton/Udsigt-Scenes/main/coast.jpg"
     }
   ]
 }
